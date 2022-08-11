@@ -1,0 +1,26 @@
+1.FSV Mainz 05,Bayer 04 Leverkusen,1.057982,1.539767,3,2
+FC Augsburg,SC Freiburg,0.3488271,2.220605,1,2
+VfL Wolfsburg,TSG 1899 Hoffenheim,3.195765,1.75763,1,2
+Arminia Bielefeld,1.FC Union Berlin,1.916158,0.8879011,1,0
+VfB Stuttgart,VfL Bochum,3.380502,1.008303,1,1
+1.FC Koln,Eintracht Frankfurt,1.587518,2.37535,1,0
+FC Bayern Munchen,SpVgg Greuther Furth,3.049555,0.7413003,4,1
+Borussia Dortmund,Borussia Monchengladbach,2.829293,1.497448,6,0
+Hertha BSC Berlin,RB Leipzig,2.206495,3.524229,1,6
+TSG 1899 Hoffenheim,VfB Stuttgart,2.102555,0.2726873,2,1
+1.FC Union Berlin,1.FSV Mainz 05,1.60968,1.476289,3,1
+SC Freiburg,Hertha BSC Berlin,2.660653,0.6857853,3,0
+SpVgg Greuther Furth,1.FC Koln,0.9178975,0.9679807,1,1
+Borussia Monchengladbach,VfL Wolfsburg,1.601105,0.9449393,2,2
+Bayer 04 Leverkusen,Arminia Bielefeld,1.718626,0.3561623,3,0
+Eintracht Frankfurt,FC Bayern Munchen,0.840847,2.239165,0,1
+VfL Bochum,RB Leipzig,0.2450797,1.49173,0,1
+FC Augsburg,Borussia Dortmund,0.7328181,2.572965,1,1
+Arminia Bielefeld,FC Augsburg,0.8684779,0.5524884,0,1
+FC Bayern Munchen,Bayer 04 Leverkusen,3.104601,1.027463,1,1
+Hertha BSC Berlin,Eintracht Frankfurt,1.836531,2.568168,1,4
+RB Leipzig,SC Freiburg,2.04008,0.5119201,1,1
+VfL Bochum,SpVgg Greuther Furth,0.7594965,0.5165527,2,1
+VfL Wolfsburg,1.FC Union Berlin,1.498392,0.3738506,1,0
+VfB Stuttgart,Borussia Monchengladbach,1.084045,1.785085,3,2
+1.FC Koln,TSG 1899 Hoffenheim,0.7692069,1.116018,0,1
